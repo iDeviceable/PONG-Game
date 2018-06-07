@@ -1,1 +1,2 @@
-# This game was created by me, but I seem to be having troubles. Can someone help??
+This game was created by me, but I seem to be having troubles. Can someone help??
+I watched a youtube tutorial to do this project because I'm a beginner attempting to learn to code and make apps, however the video seems to have many complaints of it not working and people getting several errors themselves. If someone could help by describing the problem to me and telling me how to fix it, that would be great!
