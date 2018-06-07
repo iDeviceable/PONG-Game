@@ -41,7 +41,8 @@ class GameScene: SKScene {
         <#code#>
     }
 
-    This is where I seem to be having my troubles. I get 4 errors stating 
+    These two override functions are where I seem to be having my troubles. 
+    I get 4 errors stating:
     " Expected '(' in argument list of function declaration"   
     " Expected '{' in body of function declaration"
     " Expected declaration"
