@@ -40,6 +40,13 @@ class GameScene: SKScene {
     override func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent?) {
         <#code#>
     }
+
+    This is where I seem to be having my troubles. I get 4 errors stating 
+    " Expected '(' in argument list of function declaration"   
+    " Expected '{' in body of function declaration"
+    " Expected declaration"
+    " Method does not override any method from its superclass"
+    
     
     override func update;,(_ currentTime: TimeInterval) {
         // Called before each frame is rendered
